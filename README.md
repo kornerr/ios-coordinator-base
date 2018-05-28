@@ -27,7 +27,7 @@ This is what the app looks like:
     * displays content visible from within SampleVC
     * contains button, which only reports the need to display the alert but does not display it
 
-**Note**: Coordinator does the actual display of an alert, SampleView do not display anything, this is [SRP][srp] in action.
+**Note**: Coordinator does the actual display of the alert, SampleView do not display anything, this is [SRP][srp] in action.
 
 [preview]: preview.gif
 [srp]: https://en.wikipedia.org/wiki/Single_responsibility_principle
